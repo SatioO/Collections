@@ -3,10 +3,10 @@ My personnel collective resources on Algorithms and Machine Learning
 
 # Interviews
 
-Every Programmer should know(Important) - https://github.com/kishorenayar/every-programmer-should-know
-Interviews - https://github.com/kdn251/interviews
-Awesome Interview questions - https://github.com/MaximAbramchuck/awesome-interview-questions
-Coding Interview Preperation(One of the Best) - https://github.com/jwasham/coding-interview-university
+* Every Programmer should know(Important) - https://github.com/kishorenayar/every-programmer-should-know
+* Interviews - https://github.com/kdn251/interviews
+* Awesome Interview questions - https://github.com/MaximAbramchuck/awesome-interview-questions
+* Coding Interview Preperation(One of the Best) - https://github.com/jwasham/coding-interview-university
 
 # Algorithms, Puzzles and Solutions
 

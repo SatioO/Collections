@@ -54,5 +54,9 @@ My personnel collective resources on Algorithms and Machine Learning
 
 # Pandas
 
-https://github.com/guipsamora/pandas_exercises
+* https://github.com/guipsamora/pandas_exercises
+* 100 Pandas Puzzle - https://github.com/ajcr/100-pandas-puzzles
 
+# Numpy
+
+* Numpy 100 - https://github.com/rougier/numpy-100
